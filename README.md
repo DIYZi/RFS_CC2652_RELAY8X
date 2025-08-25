@@ -1,0 +1,2 @@
+# RFS_CC2652_RELAY8X
+Zigbee relay 8x ch. CC2652P
